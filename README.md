@@ -32,7 +32,7 @@ Perform data cleaning and processing using dataframes and non supervised machine
 
 2D cluster plot - log scale
 <p align="center">
-<img src="https://github.com/tolewicz/Cryptocurrencies/blob/master/Images/2D.JPG" width="450" height= "150" title= "2D log">
+<img src="https://github.com/tolewicz/Cryptocurrencies/blob/master/Images/2D-log.JPG" width="450" height= "150" title= "2D log">
 </p>
  
 ## Resources
